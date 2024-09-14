@@ -49,95 +49,188 @@ export const userData = [
     },
   ];
 
- export const userRows = [
+ export const productRows = [
     {
       id: 1,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 2,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 3,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 4,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 5,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 6,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 7,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 8,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 9,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
     },
     {
       id: 10,
-      username: "Jon Snow",
-      avatar:
-        "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100248.jpg?uid=R161325646&ga=GA1.2.27176453.1725168356",
-      email: "jonsnow@gmail.com",
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
       status: "active",
-      transaction: "$120.00",
+      price: "$120.00",
+    },
+  ];
+
+  export const userRows = [
+    {
+      id: 1,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 2,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 3,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 4,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 5,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 6,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 7,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 8,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 9,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
+    },
+    {
+      id: 10,
+      name: "Apple Airpods",
+      img:
+        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+      stock: 32,
+      status: "active",
+      price: "$120.00",
     },
   ];

@@ -9,6 +9,7 @@ export default function Topbar() {
       <div className='topbarWrapper'>
         <div className='topLeft'>
             <img className="logo" src="https://img.freepik.com/free-vector/y-letter-colorful-logo-gradient-vector-designs_343694-1188.jpg?t=st=1726119366~exp=1726122966~hmac=93b8e8b0bdb37d5337bb1f6965d1fc80a596e67b76d411bddae6e012264e93c8&w=740" alt="logo" />
+            <span>ara</span>
         </div>
         <div className='topRight'>
             <div className="topbarIconContainer">
