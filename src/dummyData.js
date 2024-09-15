@@ -49,12 +49,27 @@ export const userData = [
     },
   ];
 
+  export const productData = [
+    {
+      name: "Jan",
+      "Sales": 4300,
+    },
+    {
+      name: "Feb",
+      "Sales": 3050,
+    },
+    {
+      name: "Feb",
+      "Sales": 5100,
+    },
+  ]
+
  export const productRows = [
     {
       id: 1,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -63,7 +78,7 @@ export const userData = [
       id: 2,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -72,7 +87,7 @@ export const userData = [
       id: 3,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -81,7 +96,7 @@ export const userData = [
       id: 4,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -90,7 +105,7 @@ export const userData = [
       id: 5,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -99,7 +114,7 @@ export const userData = [
       id: 6,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -108,7 +123,7 @@ export const userData = [
       id: 7,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -117,7 +132,7 @@ export const userData = [
       id: 8,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -126,7 +141,7 @@ export const userData = [
       id: 9,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -135,7 +150,7 @@ export const userData = [
       id: 10,
       name: "Apple Airpods",
       img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4qKHbDQsy_uEj9YLA6A8MLnI-xMl6ZKSztEyjwy_urKYvQhdTo5z6cI6LjQH122UysE&usqp=CAU",
       stock: 32,
       status: "active",
       price: "$120.00",
@@ -145,92 +160,92 @@ export const userData = [
   export const userRows = [
     {
       id: 1,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 2,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 3,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 4,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 5,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 6,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 7,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 8,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 9,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
     {
       id: 10,
-      name: "Apple Airpods",
-      img:
-        "https://img.freepik.com/free-vector/headphones-wireless-realistic-composition-with-isolated-image-phones-with-power-bank-dock-station-with-reflections-vector-illustration_1284-73201.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356&semt=ais_hybrid",
-      stock: 32,
+      username: "John Snow",
+      avatar:
+        "https://img.freepik.com/free-photo/3d-cartoon-style-character_23-2151033967.jpg?uid=R161325646&ga=GA1.1.27176453.1725168356",
+      email: "johnsnow@gmail.com",
       status: "active",
-      price: "$120.00",
+      transaction: "$132.00",
     },
   ];
