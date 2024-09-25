@@ -14,10 +14,11 @@ function App() {
         <>
           <Route path="/*" element={<PageRoutes />} />
         </>
-      ): <Route path="/login" />}
-      
+      ) : (
         <Route path="/login" element={<Login />} />
-     
+      )}
+        <Route path="/login" element={<Login />} />
+        <Route path="*" element={<Login />} />
       
     </Routes>
   );
